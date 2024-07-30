@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Ana Martinez",
+        "sueldo_base": 1703200,
+        "descuento_afp": 119224,
+        "descuento_salud": 204384,
+        "total_descuentos": 323608,
+        "sueldo_liquido": 1379592
+    },
+    {
+        "nombre": "Carlos Lopez",
+        "sueldo_base": 444400,
+        "descuento_afp": 31108,
+        "descuento_salud": 53328,
+        "total_descuentos": 84436,
+        "sueldo_liquido": 359964
+    },
+    {
+        "nombre": "Maria Garcia",
+        "sueldo_base": 1588900,
+        "descuento_afp": 111223,
+        "descuento_salud": 190668,
+        "total_descuentos": 301891,
+        "sueldo_liquido": 1287009
+    },
+    {
+        "nombre": "Laura Hernandez",
+        "sueldo_base": 1087700,
+        "descuento_afp": 76139,
+        "descuento_salud": 130524,
+        "total_descuentos": 206663,
+        "sueldo_liquido": 881037
+    },
+    {
+        "nombre": "Francisco Diaz",
+        "sueldo_base": 2240200,
+        "descuento_afp": 156814,
+        "descuento_salud": 268824,
+        "total_descuentos": 425638,
+        "sueldo_liquido": 1814562
+    },
+    {
+        "nombre": "Juan Perez",
+        "sueldo_base": 528700,
+        "descuento_afp": 37009,
+        "descuento_salud": 63444,
+        "total_descuentos": 100453,
+        "sueldo_liquido": 428247
+    },
+    {
+        "nombre": "Maria Garcia",
+        "sueldo_base": 339700,
+        "descuento_afp": 23779,
+        "descuento_salud": 40764,
+        "total_descuentos": 64543,
+        "sueldo_liquido": 275157
+    },
+    {
+        "nombre": "Juan Perez",
+        "sueldo_base": 554200,
+        "descuento_afp": 38794,
+        "descuento_salud": 66504,
+        "total_descuentos": 105298,
+        "sueldo_liquido": 448902
+    },
+    {
+        "nombre": "Carlos Lopez",
+        "sueldo_base": 309300,
+        "descuento_afp": 21651,
+        "descuento_salud": 37116,
+        "total_descuentos": 58767,
+        "sueldo_liquido": 250533
+    },
+    {
+        "nombre": "Juan Perez",
+        "sueldo_base": 1413600,
+        "descuento_afp": 98952,
+        "descuento_salud": 169632,
+        "total_descuentos": 268584,
+        "sueldo_liquido": 1145016
+    }
+]
